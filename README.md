@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/AmirDare/X1vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/AmirDare/xraydan)
 
 addEventListener(  
     "fetch",event => {  
